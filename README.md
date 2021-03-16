@@ -1,2 +1,2 @@
 # gridtest
-and
+and or change 
